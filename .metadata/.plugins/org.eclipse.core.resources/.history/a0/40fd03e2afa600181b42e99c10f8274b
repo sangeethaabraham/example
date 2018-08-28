@@ -1,0 +1,5 @@
+spring.application.name=forex-service
+
+spring.jpa.show-sql=true
+spring.h2.console.enabled=true
+forex-service.ribbon.ListOfServers=localhost:8000,localhost:8001
